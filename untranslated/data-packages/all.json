@@ -215,20 +215,6 @@
             "constraints": {
               "enum": [
                 "508",
-                "MZ2",
-                "MZ3",
-                "MZ4",
-                "MZ-A",
-                "MZ-P",
-                "MZ-N",
-                "MZ-Q",
-                "MZ-T",
-                "MZ-B",
-                "MZ-S",
-                "MZ-I",
-                "MZ-G",
-                "MZ-L",
-                "MZ6",
                 ""
               ]
             }
@@ -1200,17 +1186,6 @@
             "constraints": {
               "enum": [
                 "508",
-                "MZ-A",
-                "MZ-P",
-                "MZ-N",
-                "MZ-Q",
-                "MZ-T",
-                "MZ-B",
-                "MZ-S",
-                "MZ-I",
-                "MZ-G",
-                "MZ-L",
-                "MZ6",
                 ""
               ]
             }
@@ -1363,17 +1338,6 @@
             "constraints": {
               "enum": [
                 "508",
-                "MZ-A",
-                "MZ-P",
-                "MZ-N",
-                "MZ-Q",
-                "MZ-T",
-                "MZ-B",
-                "MZ-S",
-                "MZ-I",
-                "MZ-G",
-                "MZ-L",
-                "MZ6",
                 ""
               ]
             }
@@ -1981,17 +1945,6 @@
             "constraints": {
               "enum": [
                 "508",
-                "MZ-A",
-                "MZ-P",
-                "MZ-N",
-                "MZ-Q",
-                "MZ-T",
-                "MZ-B",
-                "MZ-S",
-                "MZ-I",
-                "MZ-G",
-                "MZ-L",
-                "MZ6",
                 ""
               ]
             }
@@ -2901,17 +2854,6 @@
             "constraints": {
               "enum": [
                 "508",
-                "MZ-A",
-                "MZ-P",
-                "MZ-N",
-                "MZ-Q",
-                "MZ-T",
-                "MZ-B",
-                "MZ-S",
-                "MZ-I",
-                "MZ-G",
-                "MZ-L",
-                "MZ6",
                 ""
               ]
             }
@@ -3821,17 +3763,6 @@
             "constraints": {
               "enum": [
                 "508",
-                "MZ-A",
-                "MZ-P",
-                "MZ-N",
-                "MZ-Q",
-                "MZ-T",
-                "MZ-B",
-                "MZ-S",
-                "MZ-I",
-                "MZ-G",
-                "MZ-L",
-                "MZ6",
                 ""
               ]
             }
@@ -4142,17 +4073,6 @@
             "constraints": {
               "enum": [
                 "508",
-                "MZ-A",
-                "MZ-P",
-                "MZ-N",
-                "MZ-Q",
-                "MZ-T",
-                "MZ-B",
-                "MZ-S",
-                "MZ-I",
-                "MZ-G",
-                "MZ-L",
-                "MZ6",
                 ""
               ]
             }
@@ -4762,17 +4682,6 @@
             "constraints": {
               "enum": [
                 "508",
-                "MZ-A",
-                "MZ-P",
-                "MZ-N",
-                "MZ-Q",
-                "MZ-T",
-                "MZ-B",
-                "MZ-S",
-                "MZ-I",
-                "MZ-G",
-                "MZ-L",
-                "MZ6",
                 ""
               ]
             }
@@ -4927,17 +4836,6 @@
             "constraints": {
               "enum": [
                 "508",
-                "MZ-A",
-                "MZ-P",
-                "MZ-N",
-                "MZ-Q",
-                "MZ-T",
-                "MZ-B",
-                "MZ-S",
-                "MZ-I",
-                "MZ-G",
-                "MZ-L",
-                "MZ6",
                 ""
               ]
             }
@@ -5091,17 +4989,6 @@
             "constraints": {
               "enum": [
                 "508",
-                "MZ-A",
-                "MZ-P",
-                "MZ-N",
-                "MZ-Q",
-                "MZ-T",
-                "MZ-B",
-                "MZ-S",
-                "MZ-I",
-                "MZ-G",
-                "MZ-L",
-                "MZ6",
                 ""
               ]
             }
@@ -5709,17 +5596,6 @@
             "constraints": {
               "enum": [
                 "508",
-                "MZ-A",
-                "MZ-P",
-                "MZ-N",
-                "MZ-Q",
-                "MZ-T",
-                "MZ-B",
-                "MZ-S",
-                "MZ-I",
-                "MZ-G",
-                "MZ-L",
-                "MZ6",
                 ""
               ]
             }
@@ -8187,17 +8063,6 @@
             "constraints": {
               "enum": [
                 "508",
-                "MZ-A",
-                "MZ-P",
-                "MZ-N",
-                "MZ-Q",
-                "MZ-T",
-                "MZ-B",
-                "MZ-S",
-                "MZ-I",
-                "MZ-G",
-                "MZ-L",
-                "MZ6",
                 ""
               ]
             }
@@ -10191,17 +10056,6 @@
             "constraints": {
               "enum": [
                 "508",
-                "MZ-A",
-                "MZ-P",
-                "MZ-N",
-                "MZ-Q",
-                "MZ-T",
-                "MZ-B",
-                "MZ-S",
-                "MZ-I",
-                "MZ-G",
-                "MZ-L",
-                "MZ6",
                 ""
               ]
             }
@@ -10357,17 +10211,6 @@
             "constraints": {
               "enum": [
                 "508",
-                "MZ-A",
-                "MZ-P",
-                "MZ-N",
-                "MZ-Q",
-                "MZ-T",
-                "MZ-B",
-                "MZ-S",
-                "MZ-I",
-                "MZ-G",
-                "MZ-L",
-                "MZ6",
                 ""
               ]
             }
@@ -10525,17 +10368,6 @@
             "constraints": {
               "enum": [
                 "508",
-                "MZ-A",
-                "MZ-P",
-                "MZ-N",
-                "MZ-Q",
-                "MZ-T",
-                "MZ-B",
-                "MZ-S",
-                "MZ-I",
-                "MZ-G",
-                "MZ-L",
-                "MZ6",
                 ""
               ]
             }
@@ -10693,17 +10525,6 @@
             "constraints": {
               "enum": [
                 "508",
-                "MZ-A",
-                "MZ-P",
-                "MZ-N",
-                "MZ-Q",
-                "MZ-T",
-                "MZ-B",
-                "MZ-S",
-                "MZ-I",
-                "MZ-G",
-                "MZ-L",
-                "MZ6",
                 ""
               ]
             }
@@ -11910,17 +11731,6 @@
             "constraints": {
               "enum": [
                 "508",
-                "MZ-A",
-                "MZ-P",
-                "MZ-N",
-                "MZ-Q",
-                "MZ-T",
-                "MZ-B",
-                "MZ-S",
-                "MZ-I",
-                "MZ-G",
-                "MZ-L",
-                "MZ6",
                 ""
               ]
             }
@@ -12074,17 +11884,6 @@
             "constraints": {
               "enum": [
                 "508",
-                "MZ-A",
-                "MZ-P",
-                "MZ-N",
-                "MZ-Q",
-                "MZ-T",
-                "MZ-B",
-                "MZ-S",
-                "MZ-I",
-                "MZ-G",
-                "MZ-L",
-                "MZ6",
                 ""
               ]
             }

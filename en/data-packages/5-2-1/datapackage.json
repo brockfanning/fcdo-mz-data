@@ -88,18 +88,7 @@
             "constraints": {
               "enum": [
                 "",
-                "508",
-                "MZ-A",
-                "MZ-B",
-                "MZ-G",
-                "MZ-I",
-                "MZ-L",
-                "MZ-N",
-                "MZ-P",
-                "MZ-Q",
-                "MZ-S",
-                "MZ-T",
-                "MZ6"
+                "508"
               ]
             },
             "title": "REF_AREA"
