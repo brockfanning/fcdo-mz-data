@@ -1,0 +1,40 @@
+docs_baseurl: /fcdo-mz-data
+languages:
+  - en
+site_dir: '_site'
+src_dir: ''
+
+schema_file: metadata_schema.yml
+
+docs_branding: Mozambique SDG data summary
+docs_intro: This summary uses code from the Open SDG project to
+  display reports and examples from the Mozambique SDG data.
+docs_extra_disaggregations:
+  - UNIT_MEASURE
+  - UNIT_MULT
+  - SERIES
+
+inputs:
+  - class: InputOpenDataPlatform
+    source: data.json
+    indicator_key: indicador
+    column_map: columns-mozambique.csv
+    code_map: codes-afdb.csv
+  - class: InputSdgMetadata
+    source: https://github.com/brockfanning/sdg-metadata-mz
+    branch: main
+
+translations:
+  - class: TranslationInputSdgTranslations
+    source: https://github.com/open-sdg/sdg-translations.git
+    tag: 1.4.0
+  - class: TranslationInputYaml
+    source: translations
+
+reporting_status_extra_fields: []
+
+sdmx_output_global:
+  meta_reporting_type: N
+  meta_ref_area: MZ
+  default_values:
+    REF_AREA: MZ
