@@ -66,6 +66,7 @@ def alter_data(df, context):
     df = common_alterations(df)
     df = set_series_and_unit(df, context)
     df = set_time_detail(df)
+    df = limit_to_national_ref_area(df, '508')
     return drop_columns(df)
 
 
